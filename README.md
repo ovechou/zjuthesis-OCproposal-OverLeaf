@@ -8,7 +8,7 @@ Shaojian Yang在其基础上根据海洋学院院网的开题报告word模板修
 - Update   : https://github.com/ovechou/zjuthesis-OCproposal-OverLeaf  
 - 编译环境：Windows10 + Overleaf  
 - 使用说明：  
-1. 打开https://www.overleaf.com/project，左上角点击New Project，Upload Project,直接将压缩包拖入即可。  
+1. 打开https://www.overleaf.com/project ,左上角点击New Project，Upload Project,直接将压缩包拖入即可。  
 2. 导入后，点击打开项目，点击左上角的Menu，Compiler选择XeLaTeX,TeX Live选择2020.
 
 下面引用Zixuan Wang的话，简单说明两者的区别。  
