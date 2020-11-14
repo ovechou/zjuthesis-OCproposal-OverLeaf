@@ -1,2 +1,2 @@
 # zjuthesis-OCproposal-OverLeaf
-海洋学院开题报告OverLeaf版本
+浙江大学海洋学院开题报告OverLeaf版本
