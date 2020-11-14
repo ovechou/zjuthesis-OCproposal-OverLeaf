@@ -1,6 +1,6 @@
 # zjuthesis-OCproposal-OverLeaf
 浙江大学海洋学院开题报告OverLeaf版本.  
-最原始版本为Zixuan Wang发布的zjuthesis OverLeaf模板v6.1.0，原模版地址：https://github.com/TheNetAdmin/zjuthesis
+最原始版本为Zixuan Wang发布的zjuthesis OverLeaf模板v6.1.0，原模版地址：https://github.com/TheNetAdmin/zjuthesis  
 Shaojian Yang在其基础上根据海洋学院院网的开题报告word模板修改,修改后的模板地址为:https://github.com/blknaoh/zjuthesis-OCproposal  
 本版本在Zixuan Wang的基础上, 参考Shaojian Yang的海洋学院特色化修改对OverLeaf版本进行二次开发
 - Modifier : Bin Zhou (for Ocean College Graduate Proposal Version for Overleaf)  
