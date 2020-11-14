@@ -12,6 +12,6 @@ Shaojian Yang在其基础上根据海洋学院院网的开题报告word模板修
 2. 导入后, 点击打开项目，点击左上角的Menu, Compiler选择XeLaTeX, TeX Live选择2020.  
 
 下面引用Zixuan Wang的话, 简单说明两者的区别.   
-""zjuthesis 模板有两种使用方式，Overleaf 或本地编译:   
+> ""zjuthesis 模板有两种使用方式，Overleaf 或本地编译:   
 Overleaf 是一个线上 LaTeX 编辑器，可以在不安装任何工具的情况下编写 LaTeX 文档，同时也可以和其他人共享文档，共同编辑. 
 本地编译比 Overleaf 更快，而且本地编译可以使用 Git 来记录版本 (Overleaf 的版本记录功能需要订阅)。推荐有能力的同学设置本地编译环境，并推荐使用 Visual Studio Code 配合 LaTeX workshop 插件 (vscode 使用方式见FAQ)。""
